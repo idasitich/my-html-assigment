@@ -1,3 +1,3 @@
 # my-html-assigment
 
-https://github.com/idasitich/my-html-assigment.git
+https://idasitich.github.io/my-html-assigment/
